@@ -12,3 +12,10 @@ D:\Code\C#\WeatherForecast\WeatherForecast_Server\obj\Debug\WeatherForecast_Serv
 D:\Code\C#\WeatherForecast\WeatherForecast_Server\obj\Debug\WeatherForecast_Server.csproj.CoreCompileInputs.cache
 D:\Code\C#\WeatherForecast\WeatherForecast_Server\obj\Debug\WeatherForecast_Server.exe
 D:\Code\C#\WeatherForecast\WeatherForecast_Server\obj\Debug\WeatherForecast_Server.pdb
+D:\Code\C#\Test_DBTT\DuBaoThoiTiet\WeatherForecast_Server\bin\Debug\WeatherForecast_Server.exe.config
+D:\Code\C#\Test_DBTT\DuBaoThoiTiet\WeatherForecast_Server\bin\Debug\WeatherForecast_Server.exe
+D:\Code\C#\Test_DBTT\DuBaoThoiTiet\WeatherForecast_Server\bin\Debug\WeatherForecast_Server.pdb
+D:\Code\C#\Test_DBTT\DuBaoThoiTiet\WeatherForecast_Server\obj\Debug\WeatherForecast_Server.csproj.AssemblyReference.cache
+D:\Code\C#\Test_DBTT\DuBaoThoiTiet\WeatherForecast_Server\obj\Debug\WeatherForecast_Server.csproj.CoreCompileInputs.cache
+D:\Code\C#\Test_DBTT\DuBaoThoiTiet\WeatherForecast_Server\obj\Debug\WeatherForecast_Server.exe
+D:\Code\C#\Test_DBTT\DuBaoThoiTiet\WeatherForecast_Server\obj\Debug\WeatherForecast_Server.pdb
