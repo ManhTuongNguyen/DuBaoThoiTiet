@@ -22,7 +22,7 @@ git clone https://github.com/ManhTuongNguyen/DuBaoThoiTiet.git
 Thiết lập cơ sở dữ liệu để làm cache cho server, tránh request lên API quá nhiều lần gây lãng phí.**
 - Mở SQL Server Managerment Studio
 - Tạo một query mới (Ctrl + N)
-- Copy query từ file SQLQuery_WeatherForecast.sql
+- Copy query từ file ```SQLQuery_WeatherForecast.sql```
 - Chạy query (F5)
 - Thay đổi chuỗi kết nối đến cơ sở dữ liệu của bạn tại biến ```connectionString``` trong ```WeatherForecast_Server\DataProvider.cs```
 
@@ -34,7 +34,7 @@ Thiết lập cơ sở dữ liệu để làm cache cho server, tránh request l
 #### B3. Mở server.
 - Mở cửa sổ Solution Explorer trong Visual Studio
 - Click chuột phải vào project WeatherForecast_Server
-- Chọn Debug -> Start New Instance
+- Chọn ```Debug``` -> ```Start New Instance```
 
 Sau khi hoàn thành các bước trên, ta có thể tìm thông tin dự báo thời tiết bằng client.
 
