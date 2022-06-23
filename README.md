@@ -30,9 +30,9 @@ Thiết lập cơ sở dữ liệu để làm cache cho server, tránh request A
 #### B1. Mở ứng dụng.
 - Tại thư mục clone code, double click chuột vào file ```WeatherForecast.sln```
 #### B2. Mở client.
-- Trong Visual Studio, nhấn ```Start``` để chạy chương trình
+- Trong Visual Studio, nhấn start để chạy chương trình
 #### B3. Mở server.
-- Mở cửa sổ Solution Explorer trong Visual Studio
+- Mở cửa sổ ```Solution Explorer``` trong *Visual Studio*
 - Click chuột phải vào project ```WeatherForecast_Server```
 - Chọn ```Debug``` -> ```Start New Instance```
 
