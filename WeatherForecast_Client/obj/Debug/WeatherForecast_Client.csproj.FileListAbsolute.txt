@@ -1,0 +1,22 @@
+D:\Source Code\WeatherForecast\WeatherForecast_Client\bin\Debug\WeatherForecast_Client.exe.config
+D:\Source Code\WeatherForecast\WeatherForecast_Client\bin\Debug\WeatherForecast_Client.exe
+D:\Source Code\WeatherForecast\WeatherForecast_Client\bin\Debug\WeatherForecast_Client.pdb
+D:\Source Code\WeatherForecast\WeatherForecast_Client\obj\Debug\WeatherForecast_Client.csproj.AssemblyReference.cache
+D:\Source Code\WeatherForecast\WeatherForecast_Client\obj\Debug\WeatherForecast_Client.frmMain.resources
+D:\Source Code\WeatherForecast\WeatherForecast_Client\obj\Debug\WeatherForecast_Client.Properties.Resources.resources
+D:\Source Code\WeatherForecast\WeatherForecast_Client\obj\Debug\WeatherForecast_Client.csproj.GenerateResource.cache
+D:\Source Code\WeatherForecast\WeatherForecast_Client\obj\Debug\WeatherForecast_Client.csproj.CoreCompileInputs.cache
+D:\Source Code\WeatherForecast\WeatherForecast_Client\obj\Debug\WeatherForecast_Client.exe
+D:\Source Code\WeatherForecast\WeatherForecast_Client\obj\Debug\WeatherForecast_Client.pdb
+D:\Source Code\WeatherForecast\WeatherForecast_Client\obj\Debug\WeatherForecast_Client.frmWeatherForeCastEveryHour.resources
+D:\Code\C#\WeatherForecast\WeatherForecast_Client\bin\Debug\WeatherForecast_Client.exe.config
+D:\Code\C#\WeatherForecast\WeatherForecast_Client\bin\Debug\WeatherForecast_Client.exe
+D:\Code\C#\WeatherForecast\WeatherForecast_Client\bin\Debug\WeatherForecast_Client.pdb
+D:\Code\C#\WeatherForecast\WeatherForecast_Client\obj\Debug\WeatherForecast_Client.csproj.AssemblyReference.cache
+D:\Code\C#\WeatherForecast\WeatherForecast_Client\obj\Debug\WeatherForecast_Client.frmMain.resources
+D:\Code\C#\WeatherForecast\WeatherForecast_Client\obj\Debug\WeatherForecast_Client.frmWeatherForeCastEveryHour.resources
+D:\Code\C#\WeatherForecast\WeatherForecast_Client\obj\Debug\WeatherForecast_Client.Properties.Resources.resources
+D:\Code\C#\WeatherForecast\WeatherForecast_Client\obj\Debug\WeatherForecast_Client.csproj.GenerateResource.cache
+D:\Code\C#\WeatherForecast\WeatherForecast_Client\obj\Debug\WeatherForecast_Client.csproj.CoreCompileInputs.cache
+D:\Code\C#\WeatherForecast\WeatherForecast_Client\obj\Debug\WeatherForecast_Client.exe
+D:\Code\C#\WeatherForecast\WeatherForecast_Client\obj\Debug\WeatherForecast_Client.pdb

@@ -1,0 +1,14 @@
+D:\Source Code\WeatherForecast\WeatherForecast_Server\bin\Debug\WeatherForecast_Server.exe.config
+D:\Source Code\WeatherForecast\WeatherForecast_Server\bin\Debug\WeatherForecast_Server.exe
+D:\Source Code\WeatherForecast\WeatherForecast_Server\bin\Debug\WeatherForecast_Server.pdb
+D:\Source Code\WeatherForecast\WeatherForecast_Server\obj\Debug\WeatherForecast_Server.csproj.AssemblyReference.cache
+D:\Source Code\WeatherForecast\WeatherForecast_Server\obj\Debug\WeatherForecast_Server.csproj.CoreCompileInputs.cache
+D:\Source Code\WeatherForecast\WeatherForecast_Server\obj\Debug\WeatherForecast_Server.exe
+D:\Source Code\WeatherForecast\WeatherForecast_Server\obj\Debug\WeatherForecast_Server.pdb
+D:\Code\C#\WeatherForecast\WeatherForecast_Server\bin\Debug\WeatherForecast_Server.exe.config
+D:\Code\C#\WeatherForecast\WeatherForecast_Server\bin\Debug\WeatherForecast_Server.exe
+D:\Code\C#\WeatherForecast\WeatherForecast_Server\bin\Debug\WeatherForecast_Server.pdb
+D:\Code\C#\WeatherForecast\WeatherForecast_Server\obj\Debug\WeatherForecast_Server.csproj.AssemblyReference.cache
+D:\Code\C#\WeatherForecast\WeatherForecast_Server\obj\Debug\WeatherForecast_Server.csproj.CoreCompileInputs.cache
+D:\Code\C#\WeatherForecast\WeatherForecast_Server\obj\Debug\WeatherForecast_Server.exe
+D:\Code\C#\WeatherForecast\WeatherForecast_Server\obj\Debug\WeatherForecast_Server.pdb
