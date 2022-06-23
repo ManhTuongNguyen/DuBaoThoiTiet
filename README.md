@@ -19,7 +19,7 @@ git clone https://github.com/ManhTuongNguyen/DuBaoThoiTiet.git
 
 #### B3. Thiết lập cơ sở dữ liệu.
 **Lưu ý: Có thể bỏ qua bước này mà ứng dụng vẫn hoạt động bình thường.<br>
-Thiết lập cơ sở dữ liệu để làm cache cho server, tránh request lên API quá nhiều lần gây lãng phí tài nguyên.**
+Thiết lập cơ sở dữ liệu để làm cache cho server, tránh request API quá nhiều lần gây lãng phí tài nguyên.**
 - Mở SQL Server Managerment Studio
 - Tạo một query mới (Ctrl + N)
 - Copy query từ file ```SQLQuery_WeatherForecast.sql```
