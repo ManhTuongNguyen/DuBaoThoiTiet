@@ -1,7 +1,6 @@
 # Đồ án kết thúc môn học lập trình mạng.
 ## Đề tài: Dự báo thời tiết.
-## Special thanks to WeatherAPI.com
-[Home page](https://www.weatherapi.com/) [Github](https://github.com/weatherapicom)
+## Special thanks to WeatherAPI.com [Home page](https://www.weatherapi.com/) | [Github](https://github.com/weatherapicom)
 
 # Các bước thiết lập ứng dụng.
 ##### B1. Clone code.
