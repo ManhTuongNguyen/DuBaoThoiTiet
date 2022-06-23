@@ -1,5 +1,7 @@
 # Đồ án kết thúc môn học lập trình mạng.
 ## Đề tài: Dự báo thời tiết.
+## Special thanks to WeatherAPI.com
+[Home page](https://www.weatherapi.com/) [Github](https://github.com/weatherapicom)
 
 # Các bước thiết lập ứng dụng.
 ##### B1. Clone code.
@@ -17,8 +19,8 @@ git clone https://github.com/ManhTuongNguyen/DuBaoThoiTiet.git
 - Chỉnh sửa API của bạn tại biến ```key``` trong WeatherForecast_Server\WeatherForecastServerHelper.cs
 
 ##### B3. Thiết lập cơ sở dữ liệu.
-####### Lưu ý: Có thể bỏ qua bước này mà ứng dụng vẫn hoạt động bình thường.
-Thiết lập cơ sở dữ liệu để làm cache cho server, tránh request lên API quá nhiều lần gây lãng phí.
+**Lưu ý: Có thể bỏ qua bước này mà ứng dụng vẫn hoạt động bình thường.
+Thiết lập cơ sở dữ liệu để làm cache cho server, tránh request lên API quá nhiều lần gây lãng phí.**
 - Mở SQL Server Managerment Studio
 - Tạo một query mới (Ctrl + N)
 - Copy query từ file SQLQuery_WeatherForecast.sql
@@ -36,3 +38,9 @@ Thiết lập cơ sở dữ liệu để làm cache cho server, tránh request l
 - Chọn Debug -> Start New Instance
 
 Sau khi hoàn thành các bước trên, ta có thể tìm thông tin dự báo thời tiết bằng client.
+
+### Screenshot
+![Screenshot](Capture_1.PNG)
+![Screenshot](Capture_2.PNG)
+![Screenshot](Capture_3.PNG)
+![Screenshot](Capture_4.PNG)
