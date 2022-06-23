@@ -3,7 +3,7 @@
 ## Special thanks to WeatherAPI.com [Home page](https://www.weatherapi.com/) | [Github](https://github.com/weatherapicom)
 
 # Các bước thiết lập ứng dụng.
-##### B1. Clone code.
+#### B1. Clone code.
 - Tạo một thư mục mới.
 - Mở cmd và chuyển đến thư mục này.
 - Chạy lệnh sau:
@@ -11,13 +11,13 @@
 git clone https://github.com/ManhTuongNguyen/DuBaoThoiTiet.git
 ```
 
-##### B2. Lấy key để sử dụng API.
+#### B2. Lấy key để sử dụng API.
 - Truy cập trang web https://www.weatherapi.com/
 - Đăng ký một tài khoản và đăng nhập bằng tài khoản vừa đăng ký.
 - Tại mục Dashboards, copy ```API Key```.
 - Chỉnh sửa API Key của bạn tại biến ```key``` trong ```WeatherForecast_Server\WeatherForecastServerHelper.cs```
 
-##### B3. Thiết lập cơ sở dữ liệu.
+#### B3. Thiết lập cơ sở dữ liệu.
 **Lưu ý: Có thể bỏ qua bước này mà ứng dụng vẫn hoạt động bình thường.
 Thiết lập cơ sở dữ liệu để làm cache cho server, tránh request lên API quá nhiều lần gây lãng phí.**
 - Mở SQL Server Managerment Studio
@@ -27,11 +27,11 @@ Thiết lập cơ sở dữ liệu để làm cache cho server, tránh request l
 - Thay đổi chuỗi kết nối đến cơ sở dữ liệu của bạn tại biến ```connectionString``` trong ```WeatherForecast_Server\DataProvider.cs```
 
 # Các bước sử dụng ứng dụng.
-##### B1. Mở ứng dụng.
+#### B1. Mở ứng dụng.
 - Tại thư mục clone code, double click chuột vào file ```WeatherForecast.sln```
-##### B2. Mở client.
+#### B2. Mở client.
 - Trong Visual Studio, nhấn start để chạy chương trình
-##### B3. Mở server.
+#### B3. Mở server.
 - Mở cửa sổ Solution Explorer trong Visual Studio
 - Click chuột phải vào project WeatherForecast_Server
 - Chọn Debug -> Start New Instance
