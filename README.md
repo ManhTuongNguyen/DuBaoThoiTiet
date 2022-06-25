@@ -1,4 +1,4 @@
-# Đồ án kết thúc môn học lập trình mạng.
+Đồ án kết thúc môn học lập trình mạng.
 Ứng dụng dự báo thời tiết.
 ## Special thanks to WeatherAPI.com [Home page](https://www.weatherapi.com/) | [Github](https://github.com/weatherapicom)
 
